@@ -1,0 +1,35 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 21,
+					"ch": 22
+				},
+				"to": {
+					"line": 21,
+					"ch": 26
+				}
+			},
+			"type": "boolean",
+			"name": "Momentary",
+			"group": "SEGMENTED CONTROL IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 22,
+					"ch": 22
+				},
+				"to": {
+					"line": 22,
+					"ch": 37
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "TintColor",
+			"group": "SEGMENTED CONTROL IOS"
+		}
+	]
+}
